@@ -1,7 +1,7 @@
 # Employee-Salary-Performance-Analysis
 Excel data analysis project analyzing employee salary, performance, experience, and location using formulas, Pivot-tables, charts, and an interactive dashboard.
 
-# Employee Salary & Performance Analysis
+# Introduction 
 
 This project analyzes employee salary, performance, experience, department, and location data using Microsoft Excel. The project demonstrates the complete analysis process from raw employee data and KPI analysis to Pivot-tables, charts, and an interactive dashboard.
 
