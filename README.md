@@ -11,8 +11,7 @@ The objective of this project is to analyze employee data and identify patterns 
 ## Dataset Overview
 
 The dataset contains information for 101 employees across different departments and locations.
-
-### Key Fields
+ Key Fields
 - Employee ID
 - Employee Name
 - Department
@@ -24,7 +23,7 @@ The dataset contains information for 101 employees across different departments 
 - Age
 - Sales
 
-- ## Tools & Excel Skills Used
+## Tools & Excel Skills Used
 
 - Microsoft Excel
 - Excel Tables and Structured References
@@ -42,7 +41,7 @@ The dataset contains information for 101 employees across different departments 
 - Interactive Dashboard
 - Status
 
-- ## Key Analysis Performed
+## Key Analysis Performed
 
 - Department-wise employee count and salary analysis
 - Department-wise experience and performance analysis
@@ -55,7 +54,7 @@ The dataset contains information for 101 employees across different departments 
 - Experience vs Performance relationship analysis
 - Department workforce and salary contribution analysis
 
-- ## Key Findings
+## Key Findings
 
 - Analytics has the highest average salary at ₹96,600.
 - Chennai has the largest workforce with 29 employees.
@@ -65,9 +64,10 @@ The dataset contains information for 101 employees across different departments 
 - Salary and experience show a strong positive relationship in the analysis.
 - 68 employees have a performance rating of 4 or higher.
 
-- ## Dashboard
+## Dashboard
 
 The interactive Excel dashboard provides a visual summary of the employee dataset using KPI- cards, charts, and slicers.
+![Employee Salary & Performance Analysis Dashboard](Dashboard.png)
 
 ### Dashboard Highlights
 - Total Employees: 101
@@ -77,7 +77,7 @@ The interactive Excel dashboard provides a visual summary of the employee datase
 - Average Performance Rating: 4.1
 - Interactive filters for Department, Location, and Performance Rating
 
-- ## Project Structure
+## Project Structure
 
 The Excel workbook contains the following worksheets:
 
@@ -86,6 +86,6 @@ The Excel workbook contains the following worksheets:
 - **Pivot_Tables** – Pivot-table-based analysis with charts and slicers.
 - **Dashboard** – Interactive visual dashboard presenting the key findings.
 
-- ## Conclusion
+ ## Conclusion
 
 This project demonstrates my ability to clean, analyze, summarize, and visualize employee data using Microsoft Excel. By using formulas, Pivot-tables, charts, slicers, and an interactive dashboard, I transformed raw employee data into meaningful business insights.
